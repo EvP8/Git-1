@@ -9,6 +9,6 @@
 
 # Terminalas
 
-`` Ctrl +` ``       atidaro pati pirma terminala / arba tuo metu aktyvu
+`` Ctrl + ` ``       atidaro pati pirma terminala / arba tuo metu aktyvu
 
 `` Ctrl + Shift + ` `` sukuria nauja terminala
